@@ -1,0 +1,7 @@
+/target
+.env
+.out
+.direnv
+*.asc
+.DS_Store
+**/.DS_Store
